@@ -1,4 +1,4 @@
-# 🔐 TrueLocke – Personal Message Vault
+## 🔐 TrueLocke – Personal Message Vault
 TrueLocke is a Java Swing-based desktop application that works as a personal message vault. It allows users to securely lock a message using a custom condition and unlock it only when the correct condition is provided. The project focuses on implementing a simple lock/unlock mechanism with an interactive GUI.
 ---
 ## 📘 Curriculum Project
@@ -19,11 +19,3 @@ This project was designed to apply core concepts such as **GUI components, event
 - GitHub
 
 
-
----
-
-## 📂 Project Structure
-
-
-
-******************
